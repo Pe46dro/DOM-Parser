@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DOM Parser:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DOM_Parser_jar</output-path>
+    <root id="archive" name="DOM Parser.jar">
+      <element id="module-output" name="DOM Parser" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/jsoup-1.8.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/jgraphx-2.0.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/jgraphx.jar" path-in-jar="/" />
+      <element id="library" level="project" name="jsoup" />
+      <element id="library" level="project" name="jGraphX" />
+    </root>
+  </artifact>
+</component>
