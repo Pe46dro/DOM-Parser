@@ -11,8 +11,9 @@ java -jar artifact.jar
 ## Development
 TODO
 
-#### Building for source
+## Building for source
 Show me if you are a real developer... Use your skill :grin:
+
 Only a joke... I have to write this section but i have no time right now 
 
 ## Libraries
@@ -30,12 +31,12 @@ Only a joke... I have to write this section but i have no time right now
 
 ## Todos
 
- [ ] Write Tests
- [ ] Add Code Comments
- [ ] Move dependency to Maven
- [ ] Move all to GUI
- [ ] Print Output
- [ ] Improve parsing with more information output
+- [ ]  Write Tests
+- [ ]  Add Code Comments
+- [ ]  Move dependency to Maven
+- [ ]  Move all to GUI
+- [ ]  Print Output
+- [ ]  Improve parsing with more information output
 
 ___
 
