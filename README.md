@@ -1,9 +1,9 @@
 # jDOM-Visual
 
-This as you can read in description is a simple application that i made more than one year ago at school for exercise to allows the user to see all te dom tree of a WebPage after a year i decided to share it and try to keep it updated ( almost impossible but maybe you can improve it following [contributing](#Contributing) subsection )...
+This as you can read in description is a simple application that i made more than one year ago at school for exercise to allows the user to see all te dom tree of a WebPage after a year i decided to share it and try to keep it updated ( almost impossible but maybe you can improve it following [contributing](#contributing) subsection )...
 
 ## Usage
-To run it you can download it from release ( when i upload it ) or build your own JAR following the instruction in the subsection [development](#Development)
+To run it you can download it from release ( when i upload it ) or build your own JAR following the instruction in the subsection [development](#development)
 ```
 java -jar artifact.jar
 ```
